@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-about this blog. hmmmm.
+Another blog powered by [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
